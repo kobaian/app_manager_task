@@ -1,0 +1,13 @@
+1. Ramy systemu
+W zasadzie ramy zostaly według mnie jasno określone w rozdziale 'Zadanie do wykonania' w pliku PDF z zadaniem więc nie będę powtarzał
+
+2. Planowanie
+Planowanie wykonania zadania - 0,5h
+Postawienie szkieletu projektu i wstępna konfiguracja - 0,5h
+Stowrzenie bazowych encji, kontrolerów - 1-2h
+Upload pliku - 1-2h
+Przetwarzanie pliku - 1-2h
+Historia (grid) - 1h
+Testy - 1h
+Dockeryzacja - 0,5h
+Dokumentacja - 0,5h
